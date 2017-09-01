@@ -1,0 +1,29 @@
+.center-block {
+  text-align: center
+}
+
+.header-img {
+  margin: 0px 0px 50px 0px;
+  padding: 0px
+}
+
+.campus {
+  padding: 50px
+}
+
+form {
+  margin: 50px
+}
+
+.table {
+  margin: 0px auto 30px auto;
+  width: 70%
+}
+
+footer {
+  margin: 50px 0px 0px 0px;
+  padding: 0px;
+  background-image: url('/images/footer.jpg');
+  color: white;
+  font-size: 100px
+}
